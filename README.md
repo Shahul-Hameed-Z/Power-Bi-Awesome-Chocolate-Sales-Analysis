@@ -41,4 +41,6 @@ Shahul Hameed Z
 LinkedIn https://www.linkedin.com/in/shahul-hameed-z
 
 GitHub Shahul-Hameed-Z
-Project Link : https://app.powerbi.com/view?r=eyJrIjoiMGI1OTBhNWQtOTYyMS00ZGUzLTlkNTMtNjVjZjQxYmM1ODQ5IiwidCI6IjJkNzViMTlkLTdlM2ItNDQyYS1hNTBmLTMzZWRjYjIzOGNkYyJ9
+See the full dashboard here  : [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMGI1OTBhNWQtOTYyMS00ZGUzLTlkNTMtNjVjZjQxYmM1ODQ5IiwidCI6IjJkNzViMTlkLTdlM2ItNDQyYS1hNTBmLTMzZWRjYjIzOGNkYyJ9)
+
+![Portfolio Dashboard](Power Bi Awesome Chocolate.png)
